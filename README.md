@@ -1,17 +1,20 @@
-# kasir_coffee
+# Laris POS - Mobile Point of Sale 
 
-A new Flutter project.
+Aplikasi kasir (*Point of Sale*) mobile modern berbasis **Flutter** yang dirancang khusus untuk operasional kedai kopi dan UMKM yang masih kesulitan untuk transaksi(**Kopi Senja**).
 
-## Getting Started
+Fitur Utama Dari Aplikasi Kami Adalah :
+- **Real-Time Cashier & Cart:** Manajemen keranjang belanja cepat dengan perhitungan otomatis.
+- **Barcode Scanner:** Pemindaian produk langsung menggunakan kamera perangkat.
+- **Inventory & Cost Tracking:** Manajemen produk lengkap dengan harga jual, biaya modal, dan peringatan stok menipis (*Low-Stock Alert*).
+- **Dynamic Dashboard & Report:** Ringkasan omset harian, riwayat transaksi, dan perhitungan margin keuntungan.
+- **Feature-First Architecture:** Struktur kode modular (`auth`, `cart`, `cashier`, `history`, `home`, `menu`, `payment`, `report`) dengan *centralized state management* (`AppStore`).
+- dll 
 
-This project is a starting point for a Flutter application.
+Tech Stack Aplikasi Pos Kami Adalah :
+- **Frontend Mobile:** Flutter & Dart
+- **Backend & Database:** Java (Spring Boot) & PostgreSQL
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Cara Menjalankan 
+  1. Clone repository ini:
+   ```bash
+   git clone [https://github.com/hafis-dev223/laris-pos-mobile_front_end.git](https://github.com/hafis-dev223/laris-pos-mobile_front_end.git)
