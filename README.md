@@ -17,4 +17,4 @@ Tech Stack Aplikasi Pos Kami Adalah :
  Cara Menjalankan 
   1. Clone repository ini:
    ```bash
-   git clone [https://github.com/hafis-dev223/laris-pos-mobile_front_end.git](https://github.com/hafis-dev223/laris-pos-mobile_front_end.git)
+   git clone https://github.com/hafis-dev223/laris-pos-mobile_front_end.git
